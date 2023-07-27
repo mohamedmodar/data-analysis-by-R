@@ -2,4 +2,3 @@
 data analysis and visualization as a practice form data set in this code there is: k-mean algorithm apiori algorithm and some visualization
 this a training code with grc data set as training on data analaysis by R
 
-![OIP](https://github.com/mohamedmodar/data-analysis-by-R/assets/120323472/b6e67c7d-0656-4c0e-a2ad-75ac90d52a6c)
