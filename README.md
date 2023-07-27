@@ -17,7 +17,7 @@ this a training code with grc data set as training on data analaysis by R
 
 Conclusion
 1.	From these data and graphs, it shows that Alexandria and Cairo are the most cities in total spending and Hurghada comes after them so we may increase the items in grocery.
-2.		The age graphs it shows that the people of ages 22, 37 and 55 have the most total spending
+2.	The age graphs it shows that the people of ages 22, 37 and 55 have the most total spending
 3.	From the cash and credit pie chart it shows that the percentage is nearly same between them
 
 
